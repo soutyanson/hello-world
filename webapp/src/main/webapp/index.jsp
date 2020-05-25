@@ -3,5 +3,5 @@
 <h2> Glad to see you here </h2>
 <h2> New update from steeves</h2>
 <h3>
-<b> test auto trigger </b>
+<b> test auto trigger after docker image push </b>
  </h3>
